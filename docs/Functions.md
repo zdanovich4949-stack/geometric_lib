@@ -37,7 +37,7 @@ from circle import perimeter
 print(perimeter(322)) // 2 022,16
 ```
 
-## **Rectangle** :envelope:
+## **Rectangle** :straight_ruler:
 В файле [rectangle](../rectangle.py) рефлизованы следующие функции:
 
 ### area(r)

@@ -24,3 +24,5 @@
 - Square: P = 4a
 
 [Описание каждой функции с примерами вызовов](Functions.md) :pinched_fingers:
+
+[История изменения проекта с хешами комитов](ProjectHistory.md) :page_facing_up:
